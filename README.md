@@ -1,4 +1,4 @@
-MNIST IDENTIFING MODELS 
+*** MNIST IDENTIFING MODELS 
 first drft:
   I use the typical picture clacification dataset for tensorflow practing, while at the first experiment, three levela of neural network id built, and it just take short time, so that the model can be convegence, 
   
